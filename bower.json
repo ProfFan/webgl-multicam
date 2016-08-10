@@ -1,0 +1,26 @@
+{
+  "name": "threejs-test",
+  "authors": [
+    "Fan Jiang <prof.fan@foxmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "jquery": "^3.1.0",
+    "Ionicons": "ionicons#^2.0.1",
+    "Han": "^3.3.0",
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.6.3",
+    "wow": "^1.1.2"
+  }
+}
